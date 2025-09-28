@@ -39,3 +39,4 @@ python evaluate.py arguments_test_eigen.txt
 
 ## Pre-trained model
 You can download pre-trained models on [NYU-Depth V2](https://drive.google.com/file/d/1zdx8H1YCt71D9zLpfiovvt08dHmBD-bJ/view?usp=sharing) and [KITTI](https://drive.google.com/file/d/1ZwW3I5qN6gqrxfoXrLf-18lvM8xkcymJ/view?usp=sharing) datasets for inference.
+
